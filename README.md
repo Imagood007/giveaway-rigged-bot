@@ -1,0 +1,2 @@
+# giveaway-rigged-bot
+hello!
